@@ -1,7 +1,8 @@
 public class Ascension{
-    public static void main (String[] args){
-
-        for(int i =0; i<6; i++)
+    public static void main (String[] args)
+    {
+        int height = 6;
+        for(int i =0; i<height; i++)
 
         {
             for(int j=0; j<=i; j++)
